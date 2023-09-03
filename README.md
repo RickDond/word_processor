@@ -1,5 +1,9 @@
 # word_processor
 Example of a simple word processor
 
-# How to use it
-Run the main.py program.
+# installation
+clone project
+install virtual environment and activate it
+
+# How to run it
+python main.py
